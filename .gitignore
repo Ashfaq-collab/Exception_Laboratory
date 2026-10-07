@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled output
+out/
+target/
+build/
+*.class
+
+# Logs
+*.log
+hs_err_pid*
