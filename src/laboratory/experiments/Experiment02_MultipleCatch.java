@@ -13,11 +13,14 @@ public class Experiment02_MultipleCatch {
 
             System.out.println("Arithmetic problem");
 
-        } catch (ArrayIndexOutOfBoundsException e) {
+
+        }
+        catch (ArrayIndexOutOfBoundsException e) {
 
             System.out.println("Array index problem");
 
-        } catch (Exception e) {
+        }
+        catch (Exception e) {
 
             System.out.println("Some other exception");
 
